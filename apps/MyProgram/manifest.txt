@@ -1,0 +1,4 @@
+Name:Test Program
+Desc:Making you better at everything
+Icon:<url>
+DownloadUrl:https://github.com/NotMedic/HelloWorld/raw/refs/heads/master/HelloWorld.exe
