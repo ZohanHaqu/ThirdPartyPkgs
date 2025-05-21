@@ -1,4 +1,2 @@
-# Fork and Edit this
-
 MyProgram
 ParadoxLauncher
