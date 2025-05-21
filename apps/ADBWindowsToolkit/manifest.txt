@@ -1,0 +1,4 @@
+Name:ADB Windows Toolkit
+Desc:ADB Windows Toolkit Setup Installer
+Icon:
+DownloadUrl:https://github.com/ZohanHaqu/ADB-Windows-Toolkit/releases/download/1.0/ADBToolkitSetup.msi
